@@ -592,3 +592,19 @@ h4{
      position: relative;
 
         }
+  .taylor{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(taylor.jpg);
+  
+        }
+
+.taylor:hover{
+          background-image:
+          url(taylor.jpg);
+     position: relative;
+
+        }
