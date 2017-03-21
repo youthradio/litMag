@@ -1,0 +1,594 @@
+
+ h1{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
+
+}
+
+h4{
+  font-family: 'Lato', sans-serif;
+
+}
+
+
+   
+    .hexagon {
+  position: relative;
+  width: 150px; 
+  height: 86.60px;
+  margin: 43.30px 0;
+  background-color: teal;
+  background-size: auto 173.2051px;
+  background-position: center;
+}
+
+.hexTop,
+.hexBottom {
+  position: absolute;
+  z-index: 1;
+  width: 106.07px;
+  height: 106.07px;
+  overflow: hidden;
+  -webkit-transform: scaleY(0.5774) rotate(-45deg);
+  -ms-transform: scaleY(0.5774) rotate(-45deg);
+  transform: scaleY(0.5774) rotate(-45deg);
+  background: inherit;
+  left: 21.97px;
+}
+
+/*counter transform the bg image on the caps*/
+.hexTop:after,
+.hexBottom:after {
+  content: "";
+  position: absolute;
+  width: 150.0000px;
+  height: 86.60254037844388px;
+  -webkit-transform:  rotate(45deg) scaleY(1.7321) translateY(-43.3013px);
+  -ms-transform:      rotate(45deg) scaleY(1.7321) translateY(-43.3013px);
+  transform:          rotate(45deg) scaleY(1.7321) translateY(-43.3013px);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  background: inherit;
+}
+
+.hexTop {
+  top: -53.0330px;
+}
+
+.hexTop:after {
+  background-position: center top;
+}
+
+.hexBottom {
+  bottom: -53.0330px;
+}
+
+.hexBottom:after {
+  background-position: center bottom;
+}
+
+.hexagon:after {
+  content: "";
+  position: absolute;
+  top: 0.0000px;
+  left: 0;
+  width: 150.0000px;
+  height: 86.6025px;
+  z-index: 2;
+  background: inherit;
+}
+
+          
+        li{
+          list-style: none;
+          float: left;
+          margin: 1px;
+
+
+        }
+
+        ul{
+        
+
+
+        }
+    .TOPtop{
+      color:white;
+    }
+
+   
+
+        .student h3{
+           color:white;
+           position: relative;
+           top: 50px;
+           left: 25%;
+           z-index: 3;
+           text-decoration: none;
+        }
+.student a{
+  text-decoration: none;
+}
+.one{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.5)
+          ),
+          url(Aayala.jpg);
+     
+
+        } 
+
+.one:hover{
+          background-image:
+          url(Aayala.jpg);
+     position: relative;
+
+        }
+ .two{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.5)
+          ),
+          url(Adina.jpg);
+     
+
+        }
+
+.two:hover{
+          background-image:
+          url(Adina.jpg);
+     position: relative;
+
+        }
+
+ .three{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.5)
+          ),
+          url(armar.jpg);
+
+        }
+
+.three:hover{
+          background-image:
+          url(armar.jpg);
+     position: relative;
+
+        }
+ .four{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.5)
+          ),
+          url(Austin.jpg);
+     
+
+        }
+
+.four:hover{
+          background-image:
+          url(Austin.jpg);
+     position: relative;
+
+        }
+ .five{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.5)
+          ),
+          url(Ben.jpg);
+     
+
+        }
+
+.five:hover{
+          background-image:
+          url(Ben.jpg);
+     position: relative;
+
+        }
+
+ .six{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.5)
+          ),
+          url();
+     
+
+        }
+
+.six:hover{
+          background-image:
+          url();
+     position: relative;
+
+        }
+  .seven{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.5)
+          ),
+          url(Dakota.gif);
+     
+
+        }
+
+.seven:hover{
+          background-image:
+          url(Dakota.gif);
+     position: relative;
+
+        }
+ .eight{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.5)
+          ),
+          url(Isabelle.jpg);
+     
+
+        }
+
+.eight:hover{
+          background-image:
+          url(Isabelle.jpg);
+     position: relative;
+
+        }
+
+ .nine{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.5)
+          ),
+          url(Jack.jpg);
+     
+
+        }
+
+.nine:hover{
+          background-image:
+          url(Jack.jpg);
+     position: relative;
+
+        }
+ .ten{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Jacob.jpg);
+     
+
+        }
+
+.ten:hover{
+          background-image:
+          url(Jacob.jpg);
+     position: relative;
+
+        }
+ .eleven{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Janai.gif);
+     
+
+        }
+
+.eleven:hover{
+          background-image:
+          url(Janai.gif);
+     position: relative;
+
+        }
+
+ .twelve{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Jerrard.jpg);
+     
+
+        }
+
+.twelve:hover{
+          background-image:
+          url(Jerrard.jpg);
+     position: relative;
+
+        }
+
+.thirteen{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Jessica.jpg);
+     
+
+        }
+
+.thirteen:hover{
+          background-image:
+          url(Jessica.jpg);
+     position: relative;
+
+        }
+
+ .fourteen{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Klee.gif);
+     
+
+        }
+
+.fourteen:hover{
+          background-image:
+          url(Klee.gif);
+     position: relative;
+
+        }
+
+ .fifteen{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Limsokpov.jpg);
+     
+
+        }
+
+.fifteen:hover{
+          background-image:
+          url(Limsokpov.jpg);
+     position: relative;
+
+        }
+ .sixteen{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Mali.gif);
+     
+
+        }
+
+.sixteen:hover{
+          background-image:
+          url(Mali.gif);
+     position: relative;
+
+        }
+ .seventeen{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Marco.JPG);
+     
+
+        }
+
+.seventeen:hover{
+          background-image:
+          url(Marco.JPG);
+     position: relative;
+
+        }
+
+ .eighteen{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Mariam.jpg);
+     
+
+        }
+
+.eighteen:hover{
+          background-image:
+          url(Mariam.jpg);
+     position: relative;
+
+        }
+
+  .nineteen{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Oliver.jpg);
+  
+        }
+
+.nineteen:hover{
+          background-image:
+          url(Oliver.jpg);
+     position: relative;
+
+        }
+
+ .twenty{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Rico.jpg);
+  
+        }
+
+.twenty:hover{
+          background-image:
+          url(Rico.jpg);
+     position: relative;
+
+        }
+.rob{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Robert.jpg);
+  
+        }
+
+.rob:hover{
+          background-image:
+          url(Robert.jpg);
+     position: relative;
+
+        }
+
+.sav{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Savannah.JPG);
+  
+        }
+
+
+.sav:hover{
+          background-image:
+          url(Savannah.JPG);
+     position: relative;
+
+        }
+
+
+.sierra{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Sierra.gif);
+  
+        }
+
+.sierra:hover{
+          background-image:
+          url(Sierra.gif);
+     position: relative;
+
+        }
+
+
+.taijon{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Taijon.gif);
+  
+        }
+
+.taijon:hover{
+          background-image:
+          url(Taijon.gif);
+     position: relative;
+
+        }
+
+.tavonne{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Tavonne.JPG);
+  
+        }
+
+.tavonne:hover{
+          background-image:
+          url(Tavonne.JPG);
+     position: relative;
+
+        }
+.val{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Valencia.jpg);
+  
+        }
+
+.val:hover{
+          background-image:
+          url(Valencia.jpg);
+     position: relative;
+
+        }
+.zah{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Zahra.gif);
+  
+        }
+
+.zah:hover{
+          background-image:
+          url(Zahra.gif);
+     position: relative;
+
+        }
+.zeke{
+         background-image: 
+          linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+          ),
+          url(Zeke.JPG);
+  
+        }
+
+.zeke:hover{
+          background-image:
+          url(Zeke.JPG);
+     position: relative;
+
+        }
