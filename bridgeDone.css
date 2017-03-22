@@ -99,7 +99,7 @@ h4{
 
    
 
-        .student h3{
+         h3{
            color:white;
            position: relative;
            top: 50px;
@@ -127,6 +127,13 @@ h4{
      position: relative;
 
         }
+
+  .one h3{
+    position: relative;
+           top: 50px;
+           left: 20%;
+  }
+
  .two{
          background-image: 
           linear-gradient(
@@ -161,6 +168,13 @@ h4{
      position: relative;
 
         }
+
+  .three h3{
+    position: relative;
+           top: 50px;
+           left: 15%;
+  }
+
  .four{
          background-image: 
           linear-gradient(
@@ -230,6 +244,14 @@ h4{
      position: relative;
 
         }
+
+  .seven h3{
+    position: relative;
+           top: 50px;
+           left: 20%;
+  }
+
+
  .eight{
          background-image: 
           linear-gradient(
@@ -247,6 +269,12 @@ h4{
      position: relative;
 
         }
+
+  .eight h3{
+    position: relative;
+           top: 50px;
+           left: 20%;
+  }
 
  .nine{
          background-image: 
@@ -269,7 +297,7 @@ h4{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Jacob.jpg);
      
@@ -286,7 +314,7 @@ h4{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Janai.gif);
      
@@ -304,7 +332,7 @@ h4{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Jerrard.jpg);
      
@@ -318,11 +346,17 @@ h4{
 
         }
 
+  .twelve h3{
+    position: relative;
+           top: 50px;
+           left: 20%;
+  }
+
 .thirteen{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Jessica.jpg);
      
@@ -336,11 +370,17 @@ h4{
 
         }
 
+.thirteen h3{
+    position: relative;
+           top: 50px;
+           left: 15%;
+  }
+
  .fourteen{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Klee.gif);
      
@@ -353,12 +393,17 @@ h4{
      position: relative;
 
         }
+    .fourteen h3{
+    position: relative;
+           top: 50px;
+           left: 30%;
+  }
 
  .fifteen{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Limsokpov.jpg);
      
@@ -371,11 +416,18 @@ h4{
      position: relative;
 
         }
+
+  .fifteen h3{
+    position: relative;
+           top: 50px;
+           left: 35%;
+  }
+
  .sixteen{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Mali.gif);
      
@@ -386,13 +438,19 @@ h4{
           background-image:
           url(Mali.gif);
      position: relative;
-
         }
+
+   .sixteen h3{
+    position: relative;
+           top: 50px;
+           left: 30%;
+  }
+
  .seventeen{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Marco.JPG);
      
@@ -410,7 +468,7 @@ h4{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Mariam.jpg);
      
@@ -428,7 +486,7 @@ h4{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Oliver.jpg);
   
@@ -445,7 +503,7 @@ h4{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Rico.jpg);
   
@@ -457,11 +515,18 @@ h4{
      position: relative;
 
         }
+
+   .twenty h3{
+    position: relative;
+           top: 50px;
+           left: 30%;
+  }
+
 .rob{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Robert.jpg);
   
@@ -478,7 +543,7 @@ h4{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Savannah.JPG);
   
@@ -491,13 +556,18 @@ h4{
      position: relative;
 
         }
+ .sav h3{
+    position: relative;
+           top: 50px;
+           left: 10%;
+  }
 
 
 .sierra{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Sierra.gif);
   
@@ -515,7 +585,7 @@ h4{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Taijon.gif);
   
@@ -532,7 +602,7 @@ h4{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Tavonne.JPG);
   
@@ -544,11 +614,19 @@ h4{
      position: relative;
 
         }
+
+   .tavonne h3{
+    position: relative;
+           top: 50px;
+           left: 10%;
+  }
+
+
 .val{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Valencia.jpg);
   
@@ -560,11 +638,18 @@ h4{
      position: relative;
 
         }
+
+   .val h3{
+    position: relative;
+           top: 50px;
+           left: 15%;
+  }
+
 .zah{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Zahra.gif);
   
@@ -580,7 +665,7 @@ h4{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(Zeke.JPG);
   
@@ -596,7 +681,7 @@ h4{
          background-image: 
           linear-gradient(
             rgba(0, 0, 0, 0.3),
-            rgba(0, 0, 0, 0.3)
+            rgba(0, 0, 0, 0.5)
           ),
           url(taylor.jpg);
   
@@ -608,3 +693,10 @@ h4{
      position: relative;
 
         }
+
+     .taylor h3{
+    position: relative;
+           top: 50px;
+           left: 20%;
+  }
+
