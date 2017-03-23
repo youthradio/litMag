@@ -17,7 +17,7 @@ h4{
   width: 150px; 
   height: 86.60px;
   margin: 43.30px 0;
-  background-color: teal;
+  background-color: #3ec0be;
   background-size: auto 173.2051px;
   background-position: center;
 }
@@ -210,6 +210,11 @@ h4{
 
         }
 
+.five h3{
+    position: relative;
+           top: 50px;
+           left: 30%;
+  }
  .six{
          background-image: 
           linear-gradient(
